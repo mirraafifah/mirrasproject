@@ -1,2 +1,2 @@
-# finalassignment
-This notebook demonstrate the Analyzing on Stock Performance and Building a Dashboard 
+# Data Science Learning Journey
+This repository will be documenting my learning journey in Data Science. 
